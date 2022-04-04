@@ -2,7 +2,7 @@
 
 I am a Web Developer that loves to learn new technologies, here is a little bit me:
 
-- 🔭 Technologies:
+Some technologies that I'am more used to work with:
 <div style="display: flex; justify-content: center; width: 100%">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
