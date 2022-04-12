@@ -14,7 +14,8 @@ Some technologies that I'am more used to work with:
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-I’m currently learning more about how JavaScript work behind the courtains and some JS frameworks like ElectronJS.
-Currently working on some my little [project](https://github.com/JohnnyBaptista/screen-drawer) to learn more about Electron and also as FrontEnd Developer at [GoBots](https://gocommerce.gobots.com.br/painel/).
+Working as Web Developer at [GoBots](https://gocommerce.gobots.com.br/).
+I love to learn about how JavaScript work behind the courtains and also Im in love with ElectronJS.
+Currently working on some my little [project](https://github.com/JohnnyBaptista/screen-drawer).
 
 It was a pleasure to meet you! I hope my humble GitHub can help you.
