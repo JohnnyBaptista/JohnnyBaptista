@@ -4,7 +4,7 @@ I'm a **Frontend Engineer** with a strong focus on developer experience, scalabl
 
 ---
 
-🛠️ **What I work with daily:**
+ **What I work with daily:**
 
 <div style="display: flex; justify-content: center; width: 100%">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -16,7 +16,7 @@ I'm a **Frontend Engineer** with a strong focus on developer experience, scalabl
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-🧩 **What I’ve been diving deeper into:**
+ **What I’ve been diving deeper into:**
 - **Microfrontends** using Module Federation (Webpack 5)
 - **Monorepos** with tools like TurboRepo and Nx
 - **Design systems** and component libraries
@@ -27,11 +27,14 @@ I'm a **Frontend Engineer** with a strong focus on developer experience, scalabl
 
 ---
 
-💼 **Currently working at [GoBots](https://gocommerce.gobots.com.br/)** as a Frontend Engineer helping build intelligent retail automation platforms. I'm also active in internal architecture discussions, UI design reviews, and tooling decisions.
+ **Currently working at [GoBots](https://gocommerce.gobots.com.br/)** as a Frontend Engineer helping build intelligent retail automation platforms. I'm also active in internal architecture discussions, UI design reviews, and tooling decisions.
+
+**Bachelor's degree in Computer Science** from UNESP (São Paulo State University).
+
 
 ---
 
-🧪 **I like to experiment with:**
+ **I like to experiment with:**
 - Building CLI tools (e.g. for microfrontend scaffolding)
 - Performance testing with K6 and WebSocket load simulations
 - Desktop apps with screenshot, OCR and keyboard control features
@@ -39,16 +42,15 @@ I'm a **Frontend Engineer** with a strong focus on developer experience, scalabl
 
 ---
 
-📌 **Notable Projects:**
-- 🎨 [Screen Drawer](https://github.com/JohnnyBaptista/screen-drawer) – Cross-platform screen drawing tool built with ElectronJS.
-   [emf CLI](https://github.com/JohnnyBaptista/emf) *(WIP)* – CLI to scaffold and manage microfrontend projects using Module Federation.
+ **Notable Projects:**
+- [Screen Drawer](https://github.com/JohnnyBaptista/screen-drawer) – Cross-platform screen drawing tool built with ElectronJS.
+- [emf CLI](https://github.com/JohnnyBaptista/emf) *(WIP)* – CLI to scaffold and manage microfrontend projects using Module Federation.
 
 ---
-
-🎓 Always learning about:
+ Always learning about:
 - Computer science fundamentals (compilers, parsers, low-level concepts)
 - System design and distributed architectures
-- Developer ergonomics and productivity
+- Developer productivity
 
 ---
 
