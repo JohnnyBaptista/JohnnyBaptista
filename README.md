@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile. My name is JP Baptista 👋
 
-I am a Web Developer that loves to learn new technologies, here is a little bit me:
+I am a Software Frontend Engineer that loves to learn new technologies, here is a little bit me:
 
 Some technologies that I'am more used to work with:
 <div style="display: flex; justify-content: center; width: 100%">
