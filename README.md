@@ -17,5 +17,3 @@ Some technologies that I'am more used to work with:
 Working as Web Developer at [GoBots](https://gocommerce.gobots.com.br/).
 I love to learn about how JavaScript work behind the courtains and also Im in love with ElectronJS.
 Currently working on some personal projects like my little [screen drawable desktop app](https://github.com/JohnnyBaptista/screen-drawer).
-
-It was a pleasure to meet you! I hope my humble GitHub can help you.
