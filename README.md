@@ -1,58 +1,41 @@
 ### Hi there! I'm JP Baptista 👋
 
-I'm a **Frontend Engineer** with a strong focus on developer experience, scalable architectures and performance. I love exploring how things work under the hood — from **JavaScript internals** to **low-level system behavior**, and I often build tools to make developers' lives easier.
+**Senior Fullstack Engineer** focused on software architecture, developer experience, and building tools.
+
+I enjoy understanding how things work under the hood and turning that knowledge into practical software — from scalable applications and real-time systems to developer tooling and performance optimization.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jp-baptista"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/jotape_baptista"><img src="https://img.shields.io/badge/@jotape__baptista-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://img.shields.io/badge/São%20Paulo,%20Brazil-2ea44f?style=flat" alt="São Paulo, Brazil"/>
+</p>
 
 ---
 
- **What I work with daily:**
+### 🛠️ Stack
 
-<div style="display: flex; justify-content: center; width: 100%">
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,go,kotlin,spring,electron" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,aws,gcp,docker,webpack,git" alt="Data, cloud and tooling" />
+</p>
 
- **What I’ve been diving deeper into:**
-- **Microfrontends** using Module Federation (Webpack 5)
-- **Monorepos** with tools like TurboRepo and Nx
-- **Design systems** and component libraries
-- **Dev tool automation** (CLIs, scripts, internal tools)
-- **ElectronJS apps** for desktop utilities
-- **System architecture** for scalable frontends
-- **MCP Servers** for productivity
+### 💼 Impact at work
 
----
+- ⚡ **Cut frontend build times by up to 75%** — from 10–12 min to 2.5–4 min through a frontend architecture redesign
+- 📦 **Built and published internal NPM packages** to standardize and share frontend modules across teams
+- 🛒 **Integrated with major e-commerce platforms**, including Shopee, Amazon, Mercado Livre and Magalu
+- ☁️ **Built serverless workflows on AWS** using Lambda and queues for large-scale asynchronous processing
 
- **Currently working at [GoBots](https://gocommerce.gobots.com.br/)** as a Frontend Engineer helping build intelligent retail automation platforms. I'm also active in internal architecture discussions, UI design reviews, and tooling decisions.
+### 🚀 Projects
 
-**Bachelor's degree in Computer Science** from UNESP (São Paulo State University).
+| Project | Description | Stack |
+|---|---|---|
+| [**emf-scripts**](https://github.com/JohnnyBaptista/emf-scripts) | Toolkit that removes Module Federation boilerplate through automatic config generation, AST analysis and a custom Webpack plugin. Includes a CLI for project scaffolding and inspection. *My undergraduate thesis.* | TypeScript · Webpack · Vitest |
+| **Pub/Sub DLQ Inspector** | Terminal UI for inspecting GCP Pub/Sub Dead Letter Queues and quickly triaging failed messages. | Go · TUI |
+| [**Screen Drawer**](https://github.com/JohnnyBaptista/screen-drawer) | Cross-platform utility for drawing directly on top of the screen. | Electron · JavaScript |
 
+### 🔭 Areas of interest
 
----
-
- **I like to experiment with:**
-- Building CLI tools (e.g. for microfrontend scaffolding)
-- Performance testing with K6 and WebSocket load simulations
-- Desktop apps with screenshot, OCR and keyboard control features
-- AI-enhanced workflows (categorizing financial data, behavior analysis)
-
----
-
- **Notable Projects:**
-- [Screen Drawer](https://github.com/JohnnyBaptista/screen-drawer) – Cross-platform screen drawing tool built with ElectronJS.
-- [emf CLI](https://github.com/JohnnyBaptista/emf) *(WIP)* – CLI to scaffold and manage microfrontend projects using Module Federation.
-
----
- Always learning about:
-- Computer science fundamentals (compilers, parsers, low-level concepts)
-- System design and distributed architectures
-- Developer productivity
-
----
-
-📫 **Let’s connect:**
-Feel free to reach out, open an issue, or fork something — I'm always open to tech talk and collaboration.
+- 🏗️ **Software architecture** — scalable applications, modular systems and distributed architectures
+- 🧩 **Developer tooling** — CLIs, TUIs, MCP's, scaffolding and automation
+- ⚡ **Performance & real-time systems** — WebSockets, load
